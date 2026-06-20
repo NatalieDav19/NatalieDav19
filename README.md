@@ -1,4 +1,4 @@
-## Hi there 👋
+# About Me 👋
 
 <!--
 **NatalieDav19/NatalieDav19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey I'm Natalie! 😄
+
+I'm currently a student at Queen's University Belfast studying **Software Engineering!** 💻
+
+I love learning new things and collaborating with others on exciting projects!
+
+I love all things techy, and in my spare time I enjoy keeping active and exploring new places. 🏞🗽
+
+Some video games I'm enjoying atm include RDR2, Minecraft and Forza Horizon 6. 🎮
